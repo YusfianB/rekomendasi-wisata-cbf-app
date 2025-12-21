@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Project Overview",
-    page_icon="📌",
+    page_title="Sistem Rekomendasi Wisata di Indonesia",
+    page_icon="🌍",
     layout="wide"
 )
 
